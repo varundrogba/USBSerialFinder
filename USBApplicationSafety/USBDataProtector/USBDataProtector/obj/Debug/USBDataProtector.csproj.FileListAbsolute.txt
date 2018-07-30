@@ -1,0 +1,6 @@
+c:\users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\bin\Debug\USBDataProtector.exe.config
+C:\Users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\bin\Debug\USBDataProtector.exe
+C:\Users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\bin\Debug\USBDataProtector.pdb
+C:\Users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\obj\Debug\USBDataProtector.csprojResolveAssemblyReference.cache
+C:\Users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\obj\Debug\USBDataProtector.exe
+C:\Users\cvp2067\documents\visual studio 2015\Projects\USBDataProtector\USBDataProtector\obj\Debug\USBDataProtector.pdb
