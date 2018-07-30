@@ -1,5 +1,0 @@
-c:\users\cvp2067\documents\visual studio 2015\Projects\USBSerialChecker\USBSerialChecker\bin\Debug\USBSerialChecker.exe.config
-c:\users\cvp2067\documents\visual studio 2015\Projects\USBSerialChecker\USBSerialChecker\bin\Debug\USBSerialChecker.exe
-c:\users\cvp2067\documents\visual studio 2015\Projects\USBSerialChecker\USBSerialChecker\bin\Debug\USBSerialChecker.pdb
-c:\users\cvp2067\documents\visual studio 2015\Projects\USBSerialChecker\USBSerialChecker\obj\Debug\USBSerialChecker.exe
-c:\users\cvp2067\documents\visual studio 2015\Projects\USBSerialChecker\USBSerialChecker\obj\Debug\USBSerialChecker.pdb
